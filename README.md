@@ -1,4 +1,6 @@
 # QueryBot-UG-Rule-Book-IITB
+Please edit the paths to various input files in the code accordingly.
+
 The model uses RAG(Retrievel Augmented Generation) technique to extract data from UG-RuleBook and take inputs as queries and generate ouputs based on them. The generator llm taken is 'gpt2-large'. The total model parameters are around 1.2 Billion. The model is integrated with a gradio interface to make it user friendly.
 
 # Problems
