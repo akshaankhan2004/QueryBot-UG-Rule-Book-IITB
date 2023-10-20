@@ -11,4 +11,4 @@ The model uses RAG(Retrievel Augmented Generation) technique to extract data fro
 Due to these reasons, the model is not able to give the best ouput to the user's queries.
 
 # Model
-GDrive link to the model- https://drive.google.com/drive/folders/130cwHu-DFVoRDNm0pwwfHmrCjZj16E4S?usp=share_link
+GDrive link to the model- https://drive.google.com/drive/folders/1ttEwnwfRBr060lSSjO_MIzp-4ioPesGC?usp=share_link
