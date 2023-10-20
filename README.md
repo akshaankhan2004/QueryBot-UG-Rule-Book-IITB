@@ -16,8 +16,9 @@ GDrive link to the model- https://drive.google.com/drive/folders/1ttEwnwfRBr060l
 Please edit the paths to various input files in the code accordingly.
 
 To access the model:
-Download all the files present in the Drive link
-Run 'gradio.ipynb' to use the model
+
+1. Download all the files present in the Drive link.
+2. Run 'gradio.ipynb' to use the model
 
 # Notes
 The file 'data_preprocessing.ipynb' was run in Google Colab and 'model.ipynb' was run in local system so there is some difference in both codes.
