@@ -12,6 +12,9 @@ Due to these reasons, the model is not able to give the best ouput to the user's
 # Model
 GDrive link to the model- https://drive.google.com/drive/folders/1ttEwnwfRBr060lSSjO_MIzp-4ioPesGC?usp=share_link
 
+Google Colab link-
+https://colab.research.google.com/drive/1axcdnoLxfX9ybu52gYp6L5MwsGlMusmD?usp=sharing
+
 # Instructions
 Please edit the paths to various input files in the code accordingly.
 
