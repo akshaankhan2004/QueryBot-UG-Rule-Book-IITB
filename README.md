@@ -18,7 +18,7 @@ https://colab.research.google.com/drive/1axcdnoLxfX9ybu52gYp6L5MwsGlMusmD?usp=sh
 # Instructions
 Please edit the paths to various input files in the code accordingly.
 
-To access the model:
+To use the model:
 
 1. Download all the files present in the Drive link.
 2. Run 'gradio.ipynb' to use the model
