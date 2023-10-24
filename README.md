@@ -24,7 +24,7 @@ To use the model:
 2. Run 'gradio.ipynb' to use the model
 
 # Notes
-The file 'data_preprocessing.ipynb' was run in Google Colab and 'model.ipynb' was run in local system so there is some difference in both codes.
+The file 'data_preprocessing.ipynb' was run in Google Colab and 'model.ipynb' was run in local system so there are some differences in both codes.
 
 
 
